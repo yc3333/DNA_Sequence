@@ -1,7 +1,0 @@
-CSCI 311 DNA project Group 3
-
-program: project.py
-
-run: $ python project.py
-
-interact: After open the program, it will ask you to select two files: query file and sequentials file. After selecting, you click submit. Then you can choose what algorithm you want to run, there are five options: longest common substring, longest common subsequence, edit distance, needleman-wunsch algorithm and our own design. After you select the algorithm, it will run for a few seconds and show the output in the bottom. Then you can choose another algorithm to run. You can click clear to clear the output screen and you can click exit to stop the program.
